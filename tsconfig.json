@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "target": "ES2023",
+    "lib": ["ES2023", "DOM"],
+    "strict": true,
+    "noImplicitOverride": true,
+    "moduleDetection": "force",
+    "experimentalDecorators": true
+  },
+  "exclude": ["**/*.js"]
+}
